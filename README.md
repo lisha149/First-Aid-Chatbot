@@ -1,5 +1,5 @@
 # CHATBOT
-College inquiry chatbot
+First-Aid inquiry chatbot
 
 minor project :
 
